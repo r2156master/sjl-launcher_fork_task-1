@@ -1,0 +1,3 @@
+
+'2023-12-24 20:33:34' new outputDebug with args firstArg: SecondArg2:2 ThirdArg3:third arg
+'2023-12-24 20:33:54' new outputDebug with args firstArg: SecondArg2:2 ThirdArg3:third arg

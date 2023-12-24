@@ -1,0 +1,23 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  sjl.cpp
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(190,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(417,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(446,14): warning C4101: jtExcptn: неиспользованная локальная переменная
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(166,10): warning C4101: f: неиспользованная локальная переменная
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(507,3): warning C4996: '_vsnwprintf': This function or variable may be unsafe. Consider using _vsnwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(517,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(521,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(539,3): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(551,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(555,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(574,3): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(599,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(629,16): warning C4101: lpOverlapped: неиспользованная локальная переменная
+C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\sjl.cpp(720,21): warning C4018: <: несоответствие типов со знаком и без знака
+  LINK : не найден или не выполнена сборка C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\Debug\sjl.exe при последней инкрементной компоновке; выполняется полная компоновка
+sjl.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  sjl.vcxproj -> C:\Users\Артём\Desktop\Podrabotka\Задача№1 - Программа Запускатор на C++ 15 Пунктов - Profi_ru\sjl\vs2019\sjl\sjl\Debug\sjl.exe
+command line is :
+nCmdShow is :1
+command line is :
+nCmdShow is :1
